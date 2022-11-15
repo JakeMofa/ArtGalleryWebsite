@@ -1,2 +1,2 @@
-# Art-gallery-clone
-Without bootsrap
+# Art-gallery
+
